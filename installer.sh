@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-mkdir -p /var/lib/node_exporter/textfile_collector/ufw.prom
+mkdir -p /var/lib/node_exporter/textfile_collector/
 mkdir -p /usr/lib/ufw_status/
 
 cp ufw_status.sh /usr/lib/ufw_status/
