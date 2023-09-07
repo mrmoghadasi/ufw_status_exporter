@@ -25,7 +25,7 @@ OnBootSec=5s
 OnUnitActiveSec=5s
 
 [Install]
-WantedBy=timers.target; > /etc/systemd/system/ufw_status.timer
+WantedBy=timers.target' > /etc/systemd/system/ufw_status.timer
 
 
 
